@@ -1,6 +1,11 @@
 # HOLUX GR245+ TOOLS
 
-这是一个给 HOLUX GR245+ 老用户提供的工具。我作为使用者之一，深受原厂 HOLUX ezTour for Logger 软件因为 GOOGLE MAP 在中国大陆不支持打开后，需要卡顿一分钟才能进入界面把轨迹导出的痛苦。
+这是一个给 HOLUX GR245+ 老用户提供的工具。
+
+<img width="787" height="797" alt="2026-04-21 14_40_59-HOLUX GR245+ TOOLS v1 0 0 0" src="https://github.com/user-attachments/assets/56b2c8f2-5a75-45e6-bd01-f9667182b541" />
+
+
+我作为使用者之一，深受原厂 HOLUX ezTour for Logger 软件因为 GOOGLE MAP 在中国大陆不支持打开后，需要卡顿一分钟才能进入界面把轨迹导出的痛苦。
 并且，也因为地图问题，原厂软件内已无法再查看轨迹。所以现在我都是用它把轨迹导出.GPX格式后，在OMAP中显示。OMAP在中国大陆还是很好用的。
 
 所以这个小工具就做了最基本的事情，当然开发期间为了研究一些MTK3318指令，也做了一些附加扩展。
@@ -35,6 +40,9 @@
 
 A Little Tool for HOLUX GR245+ Users
 This is a small utility I made for fellow HOLUX GR245+ users.
+
+<img width="787" height="797" alt="2026-04-21 14_40_24-HOLUX GR245+ TOOLS v1 0 0 0" src="https://github.com/user-attachments/assets/df9e1ca5-01c0-4b46-ba3a-20827c52604c" />
+
 
 ## Why I made this:
 Honestly, I was really struggling with the official HOLUX ezTour for Logger software. Since Google Maps stopped working properly in China mainland, the software would lag for a whole minute every time I opened it just to export a track. Plus, I couldn't even view my tracks inside the app anymore because of the map issues.
